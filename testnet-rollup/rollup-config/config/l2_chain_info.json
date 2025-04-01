@@ -1,0 +1,52 @@
+[
+    {
+        "chain-name": "arb-dev-test",
+        "parent-chain-id": 421614,
+        "parent-chain-is-arbitrum": true,
+        "sequencer-url": "",
+        "secondary-forwarding-target": "",
+        "feed-url": "",
+        "secondary-feed-url": "",
+        "das-index-url": "",
+        "has-genesis-state": false,
+        "chain-config": {
+            "chainId": 210434,
+            "homesteadBlock": 0,
+            "daoForkSupport": true,
+            "eip150Block": 0,
+            "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+            "eip155Block": 0,
+            "eip158Block": 0,
+            "byzantiumBlock": 0,
+            "constantinopleBlock": 0,
+            "petersburgBlock": 0,
+            "istanbulBlock": 0,
+            "muirGlacierBlock": 0,
+            "berlinBlock": 0,
+            "londonBlock": 0,
+            "clique": {
+                "period": 0,
+                "epoch": 0
+            },
+            "arbitrum": {
+                "EnableArbOS": true,
+                "AllowDebugPrecompiles": true,
+                "DataAvailabilityCommittee": false,
+                "InitialArbOSVersion": 32,
+                "InitialChainOwner": "0xBf34E1Af2303bd939473fF10F96033EF89a98a6a",
+                "GenesisBlockNum": 0
+            }
+        },
+        "rollup": {
+            "bridge": "0x995e6F891a772557399C8643b56781FC7866A713",
+            "inbox": "0xa210A8A740FDEAF45d5D6d238c35dFD0Ed81E72c",
+            "sequencer-inbox": "0x7D19aEd6782C0FADc28f5bD73aeB9F391f35a67D",
+            "deployed-at": 138161926,
+            "rollup": "0x53bFbD3ACd9B9dC0BAdF03c19F047FeAA4acA722",
+            "native-token": "0x0000000000000000000000000000000000000000",
+            "upgrade-executor": "0xC29821f5aEB6C175f2Cd12eD317444bd04972b9D",
+            "validator-utils": "0x06D756405D9352411a28EeA19e3B8AFE768aE2C5",
+            "validator-wallet-creator": "0xBD566a8b103e9988Da47085d3fa3Db18a4e318bd"
+        }
+    }
+]
