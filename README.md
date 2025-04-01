@@ -1,6 +1,6 @@
 ## Espresso Turbo Rollup
 
-This is a fully functional rollup using Espresso confirmations on our Decaf Testnet and Arbitrum Sepolia.
+This is a fully functional rollup using Espresso confirmations on Decaf Testnet and Arbitrum Sepolia.
 
 **Caffeinate & Code**
 
@@ -11,3 +11,5 @@ This is a fully functional rollup using Espresso confirmations on our Decaf Test
 2. IP Address of the cloud server - 16.16.172.86
 
 3. Chain ID / Namespace of the deployed Rollup - 210434
+
+Docker Logs - https://vimeo.com/1071595709
