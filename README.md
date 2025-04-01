@@ -1,4 +1,4 @@
-## Espresso Rollup
+## Espresso Rollup (Decaf Testnet + Arbitrum Sepolia)
 
 **Caffeinate & Code**
 
